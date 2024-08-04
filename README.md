@@ -1,5 +1,9 @@
 # Web Development Books
 
+## [Socket.IO](./books/Socket.IO/)
+
+* [_Socket.IO: Real-time Web Application Development_](./books/Socket.IO/Socket.IO%20Real-time%20Web%20Application%20Development%20(Rohit%20Rai)%20(Z-Library).pdf)
+
 ## [TypeScript](./books/TypeScript/)
 
 * [_Advanced TypeScript Programming Projects_](./books/TypeScript/Advanced%20TypeScript%20programming%20projects%20build%209%20different%20apps%20with%20TypeScript%203%20and%20JavaScript%20frameworks%20such%20as%20Angular,...%20(O’Hanlon,%20Peter)%20(Z-Library).epub)

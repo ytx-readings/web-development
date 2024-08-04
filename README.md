@@ -1,5 +1,13 @@
 # Web Development Books
 
+## [TypeScript](./books/TypeScript/)
+
+* [_Advanced TypeScript Programming Projects_](./books/TypeScript/Advanced%20TypeScript%20programming%20projects%20build%209%20different%20apps%20with%20TypeScript%203%20and%20JavaScript%20frameworks%20such%20as%20Angular,...%20(O’Hanlon,%20Peter)%20(Z-Library).epub)
+* [_Effective TypeScript_](./books/TypeScript/Effective%20TypeScript%2062%20Specific%20Ways%20to%20Improve%20Your%20TypeScript%20(Dan%20Vanderkam)%20(Z-Library).pdf)
+* [_Pro TypeScript_](./books/TypeScript/Pro%20TypeScript%20Application-Scale%20JavaScript%20Development%20(Steve%20Fenton)%20(Z-Library).pdf)
+* [_Programming TypeScript_](./books/TypeScript/Programming%20TypeScript%20Making%20your%20JavaScript%20applications%20scale%20(Boris%20Cherny)%20(Z-Library).pdf)
+* [_TypeScript Deep Dive_](./books/TypeScript/TypeScript%20Deep%20Dive%20(Basarat%20Ali%20Syed)%20(Z-Library).pdf)
+
 ## [WebSocket](./books/WebSocket/)
 
 * [_The Definitive Guide to HTML5 WebSocket_](./books/WebSocket/The%20Definitive%20Guide%20to%20HTML5%20WebSocket%20(Vanessa%20Wang)%20(Z-Library).pdf)

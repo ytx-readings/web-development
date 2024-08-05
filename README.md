@@ -1,5 +1,11 @@
 # Web Development Books
 
+## [JavaScript](./books/JavaScript/)
+
+* [_JavaScript Cookbook_](./books/JavaScript/JavaScript%20Cookbook%20Programming%20the%20Web%20(Adam%20D.%20Scott,%20Matthew%20MacDonald%20etc.)%20(Z-Library).pdf)
+* [_JavaScript Everywhere_](./books/JavaScript/JavaScript%20Everywhere.pdf)
+* [_Mastering Modular JavaScript_](./books/JavaScript/Mastering%20Modular%20JavaScript%20(Nicolás%20Bevacqua)%20(Z-Library).pdf)
+
 ## [Socket.IO](./books/Socket.IO/)
 
 * [_Socket.IO: Real-time Web Application Development_](./books/Socket.IO/Socket.IO%20Real-time%20Web%20Application%20Development%20(Rohit%20Rai)%20(Z-Library).pdf)

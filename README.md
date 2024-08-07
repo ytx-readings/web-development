@@ -33,6 +33,7 @@
 
 ## [Socket.IO](./books/Socket.IO/)
 
+* [_Let's Build a Multiplayer Phaser Game_](./books/Socket.IO/Let’s%20Build%20a%20Multiplayer%20Phaser%20Game%20With%20TypeScript,%20Socket.IO,%20and%20Phaser%20(Oscar%20Lodriguez)%20(Z-Library).pdf)
 * [_Socket.IO: Real-time Web Application Development_](./books/Socket.IO/Socket.IO%20Real-time%20Web%20Application%20Development%20(Rohit%20Rai)%20(Z-Library).pdf)
 
 ## [TypeScript](./books/TypeScript/)

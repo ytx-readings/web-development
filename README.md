@@ -1,5 +1,14 @@
 # Web Development Books
 
+## [Angular](./books/Angular/)
+
+* [_Angular: Up and Running_](./books/Angular/Angular%20Up%20and%20Running%20Learning%20Angular,%20Step%20by%20Step%20(Shyam%20Seshadri)%20(Z-Library).pdf)
+* [_Building Offline Applications With Angular_](./books/Angular/Building%20Offline%20Applications%20with%20Angular%20Develop%20Reliable,%20Performant%20Web%20Applications%20for%20Desktop%20and%20Mobile%20Platforms%20(Venkata%20Keerti%20Kotaru)%20(Z-Library).pdf)
+* [_Enterprise Angular_](./books/Angular/Enterprise%20Angular%20DDD,%20Nx%20Monorepos%20and%20Micro%20Frontends%20(Manfred%20Steyer)%20(Z-Library).pdf)
+* [_Getting Started with Angular_](./books/Angular/Getting%20Started%20With%20Angular%20(Stephen%20Adams)%20(Z-Library).pdf)
+* [_Pro Angular 9_](./books/Angular/Pro%20Angular%209%20Build%20Powerful%20and%20Dynamic%20Web%20Apps%20(Adam%20Freeman)%20(Z-Library).pdf)
+* [_The Complete Guide to Angular_](./books/Angular/Ng-Book%20The%20Complete%20Guide%20to%20Angular%2011%20(Felipe%20Coury,%20Ari%20Lerner,%20Nate%20Murray%20etc.)%20(Z-Library).pdf)
+
 ## [JavaScript](./books/JavaScript/)
 
 * [_JavaScript Cookbook_](./books/JavaScript/JavaScript%20Cookbook%20Programming%20the%20Web%20(Adam%20D.%20Scott,%20Matthew%20MacDonald%20etc.)%20(Z-Library).pdf)

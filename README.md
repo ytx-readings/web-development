@@ -14,6 +14,14 @@
 * [_Node.js Design Patterns_](./books/Node.js/Node.js%20Design%20Patterns%203rd%20Edition-2020.pdf)
 * [_Practical Node.js_](./books/Node.js/Practical%20Node.js%20Building%20Real-World%20Scalable%20Web%20Apps%20(Azat%20Mardan)%20(Z-Library).pdf)
 
+## [React](./books/React/)
+
+* [_Learning React: Functional Web Development with React and Redux_](./books/React/Learning%20React%20Modern%20Patterns%20for%20Developing%20React%20Apps%20(Eve%20Porcello,%20Alex%20Banks)%20(Z-Library).pdf)
+* [_Learning React: Modern Patterns for Developing React Apps_](./books/React/Learning%20React%20Modern%20Patterns%20for%20Developing%20React%20Apps%20(Eve%20Porcello,%20Alex%20Banks)%20(Z-Library).pdf)
+* [_React 18 Design Patterns_](./books/React/React%2018%20Design%20Patterns%20and%20Best%20Practices%20(Carlos%20Santana%20Roldán)%20(Z-Library).pdf)
+* [_React Cookbook_](./books/React/React%20Cookbook%20Recipes%20for%20Mastering%20the%20React%20Framework%20(David%20Griffiths,%20Dawn%20Griffiths)%20(Z-Library).pdf)
+* [_React: Up and Running_](./books/React/React.Up.and.Running.2nd.Edition.Stoyan.Stefanov.OReilly.9781492051466.EBooksWorld.ir.pdf)
+
 ## [Socket.IO](./books/Socket.IO/)
 
 * [_Socket.IO: Real-time Web Application Development_](./books/Socket.IO/Socket.IO%20Real-time%20Web%20Application%20Development%20(Rohit%20Rai)%20(Z-Library).pdf)

@@ -9,6 +9,14 @@
 * [_Pro Angular 9_](./books/Angular/Pro%20Angular%209%20Build%20Powerful%20and%20Dynamic%20Web%20Apps%20(Adam%20Freeman)%20(Z-Library).pdf)
 * [_The Complete Guide to Angular_](./books/Angular/Ng-Book%20The%20Complete%20Guide%20to%20Angular%2011%20(Felipe%20Coury,%20Ari%20Lerner,%20Nate%20Murray%20etc.)%20(Z-Library).pdf)
 
+## [Canvas](./books/Canvas/)
+
+* [_Canvas Cookbook_](./books/Canvas/vdoc.pub_canvas-cookbook.pdf)
+* [_HTML5 Canvas Cookbook_](./books/Canvas/html5-canvas-cookbook.pdf)
+* _HTML5 Canvas_
+    * [First Edition](./books/Canvas/HTML5-Canvas-1st-Edition.pdf)
+    * [Second Edition](./books/Canvas/HTML5-Canvas-2nd-Edition.pdf)
+
 ## [JavaScript](./books/JavaScript/)
 
 * [_JavaScript Cookbook_](./books/JavaScript/JavaScript%20Cookbook%20Programming%20the%20Web%20(Adam%20D.%20Scott,%20Matthew%20MacDonald%20etc.)%20(Z-Library).pdf)

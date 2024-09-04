@@ -23,6 +23,10 @@
 * [_JavaScript Everywhere_](./books/JavaScript/JavaScript%20Everywhere.pdf)
 * [_Mastering Modular JavaScript_](./books/JavaScript/Mastering%20Modular%20JavaScript%20(Nicolás%20Bevacqua)%20(Z-Library).pdf)
 
+## [NGINX](./books/NGINX/)
+
+* [_NGINX Cookbook_](./books/NGINX/NGINX.Cookbook.pdf)
+
 ## [Node.js](./books/Node.js/)
 
 * [_Mastering Node.js_](./books/Node.js/Mastering-Node.js.pdf)

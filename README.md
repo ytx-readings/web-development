@@ -88,6 +88,10 @@
 * [_React Cookbook_](./books/React/React%20Cookbook%20Recipes%20for%20Mastering%20the%20React%20Framework%20(David%20Griffiths,%20Dawn%20Griffiths)%20(Z-Library).pdf)
 * [_React: Up and Running_](./books/React/React.Up.and.Running.2nd.Edition.Stoyan.Stefanov.OReilly.9781492051466.EBooksWorld.ir.pdf)
 
+## [REST](./books/REST/)
+
+* [_Pro RESTful APIs_](./books/REST/Pro%20RESTful%20APIs%20Design,%20Build%20and%20Integrate%20with%20REST,%20JSON,%20XML%20and%20JAX-RS%20(Patni,%20Sanjay)%20(Z-Library).pdf)
+
 ## [Serverless](./books/serverless/)
 
 * [_Full Stack Serverless: Modern Application Development with React, AWS, and GraphQL_](./books/serverless/Full%20Stack%20Serverless%20Modern%20Application%20Development%20with%20React,%20AWS,%20and%20GraphQL%20(Nader%20Dabit)%20(Z-Library).epub)

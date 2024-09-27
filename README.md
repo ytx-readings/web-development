@@ -62,6 +62,10 @@
 * [_Node.js Design Patterns_](./books/Node.js/Node.js%20Design%20Patterns%203rd%20Edition-2020.pdf)
 * [_Practical Node.js_](./books/Node.js/Practical%20Node.js%20Building%20Real-World%20Scalable%20Web%20Apps%20(Azat%20Mardan)%20(Z-Library).pdf)
 
+## [Performance Optimization](./books/performance-optimization/)
+
+* [_High Performance Web Sites_](./books/performance-optimization/High%20Performance%20Web%20Sites%20Essential%20Knowledge%20for%20Front-End%20Engineers%20(Steve%20Souders)%20(Z-Library).pdf)
+
 ## [PWA](./books/PWA/)
 
 * [_Progressive Web Apps_](./books/PWA/Progressive%20Web%20Apps%20(Dean%20Alan%20Hume)%20(Z-Library).pdf)

@@ -36,6 +36,12 @@
 * [_JavaScript Everywhere_](./books/JavaScript/JavaScript%20Everywhere.pdf)
 * [_Mastering Modular JavaScript_](./books/JavaScript/Mastering%20Modular%20JavaScript%20(Nicolás%20Bevacqua)%20(Z-Library).pdf)
 
+## [Kafka](./books/Kafka/)
+
+* _Kafka: The Definitive Guide_
+    * [First Edition](./books/Kafka/confluent-kafka-definitive-guide-complete.pdf)
+    * [Second Edition](./books/Kafka/20211115-EB-Kafka_The_Definitive_Guide-2nd_Edition.pdf)
+
 ## [Micro-Frontend](./books/micro-frontend/)
 
 * [_Building Micro-Frontends: Scaling Teams and Projects, Empowering Developers](./books/micro-frontend/Building%20Micro-Frontends%20Scaling%20Teams%20and%20Projects%20Empowering%20Developers%20(Mezzalira,%20Luca)%20(Z-Library).pdf)

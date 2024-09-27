@@ -61,6 +61,11 @@
 * [_Node.js Design Patterns_](./books/Node.js/Node.js%20Design%20Patterns%203rd%20Edition-2020.pdf)
 * [_Practical Node.js_](./books/Node.js/Practical%20Node.js%20Building%20Real-World%20Scalable%20Web%20Apps%20(Azat%20Mardan)%20(Z-Library).pdf)
 
+## [PWA](./books/PWA/)
+
+* [_Progressive Web Apps_](./books/PWA/Progressive%20Web%20Apps%20(Dean%20Alan%20Hume)%20(Z-Library).pdf)
+* [_Progressive Web Apps with React_](./books/PWA/dokumen.pub_progressive-web-apps-with-react-create-lightning-fast-web-apps-with-native-power-using-react-and-firebase-9781788296137-1788296133.pdf)
+
 ## [React](./books/React/)
 
 * [_Learning React: Functional Web Development with React and Redux_](./books/React/Learning%20React%20Modern%20Patterns%20for%20Developing%20React%20Apps%20(Eve%20Porcello,%20Alex%20Banks)%20(Z-Library).pdf)

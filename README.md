@@ -21,6 +21,10 @@
     * [First Edition](./books/Canvas/HTML5-Canvas-1st-Edition.pdf)
     * [Second Edition](./books/Canvas/HTML5-Canvas-2nd-Edition.pdf)
 
+## [Flask](./books/Flask/)
+
+* [_Flask Web Development_](./books/Flask/Flask%20Web%20Development%20Developing%20Web%20Applications%20With%20Python%20(Miguel%20Grinberg)%20(Z-Library).pdf)
+
 ## [GraphQL](./books/GraphQL/)
 
 * [_Learning GraphQL_](./books/GraphQL/Learning%20GraphQL%20-%20Declarative%20Data%20Fetching%20For%20Modern%20Web%20Apps%20(Eve%20Porcello,%20Alex%20Banks)%20(Z-Library).pdf)

@@ -17,6 +17,10 @@
     * [First Edition](./books/Canvas/HTML5-Canvas-1st-Edition.pdf)
     * [Second Edition](./books/Canvas/HTML5-Canvas-2nd-Edition.pdf)
 
+## [GraphQL](./books/GraphQL/)
+
+* [_Learning GraphQL_](./books/GraphQL/Learning%20GraphQL%20-%20Declarative%20Data%20Fetching%20For%20Modern%20Web%20Apps%20(Eve%20Porcello,%20Alex%20Banks)%20(Z-Library).pdf)
+
 ## [JavaScript](./books/JavaScript/)
 
 * [_JavaScript Cookbook_](./books/JavaScript/JavaScript%20Cookbook%20Programming%20the%20Web%20(Adam%20D.%20Scott,%20Matthew%20MacDonald%20etc.)%20(Z-Library).pdf)

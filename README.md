@@ -27,6 +27,7 @@
 
 ## [GraphQL](./books/GraphQL/)
 
+* [_Full Stack Serverless: Modern Application Development with React, AWS, and GraphQL_](./books/GraphQL/Full%20Stack%20Serverless%20Modern%20Application%20Development%20with%20React,%20AWS,%20and%20GraphQL%20(Nader%20Dabit)%20(Z-Library).epub)
 * [_Learning GraphQL_](./books/GraphQL/Learning%20GraphQL%20-%20Declarative%20Data%20Fetching%20For%20Modern%20Web%20Apps%20(Eve%20Porcello,%20Alex%20Banks)%20(Z-Library).pdf)
 
 ## [JavaScript](./books/JavaScript/)
@@ -68,12 +69,17 @@
 
 ## [React](./books/React/)
 
+* [_Full Stack Serverless: Modern Application Development with React, AWS, and GraphQL_](./books/React/Full%20Stack%20Serverless%20Modern%20Application%20Development%20with%20React,%20AWS,%20and%20GraphQL%20(Nader%20Dabit)%20(Z-Library).epub)
 * [_Learning React: Functional Web Development with React and Redux_](./books/React/Learning%20React%20Modern%20Patterns%20for%20Developing%20React%20Apps%20(Eve%20Porcello,%20Alex%20Banks)%20(Z-Library).pdf)
 * [_Learning React: Modern Patterns for Developing React Apps_](./books/React/Learning%20React%20Modern%20Patterns%20for%20Developing%20React%20Apps%20(Eve%20Porcello,%20Alex%20Banks)%20(Z-Library).pdf)
 * [_Progressive Web Apps with React_](./books/React/dokumen.pub_progressive-web-apps-with-react-create-lightning-fast-web-apps-with-native-power-using-react-and-firebase-9781788296137-1788296133.pdf)
 * [_React 18 Design Patterns_](./books/React/React%2018%20Design%20Patterns%20and%20Best%20Practices%20(Carlos%20Santana%20Roldán)%20(Z-Library).pdf)
 * [_React Cookbook_](./books/React/React%20Cookbook%20Recipes%20for%20Mastering%20the%20React%20Framework%20(David%20Griffiths,%20Dawn%20Griffiths)%20(Z-Library).pdf)
 * [_React: Up and Running_](./books/React/React.Up.and.Running.2nd.Edition.Stoyan.Stefanov.OReilly.9781492051466.EBooksWorld.ir.pdf)
+
+## [Serverless](./books/serverless/)
+
+* [_Full Stack Serverless: Modern Application Development with React, AWS, and GraphQL_](./books/serverless/Full%20Stack%20Serverless%20Modern%20Application%20Development%20with%20React,%20AWS,%20and%20GraphQL%20(Nader%20Dabit)%20(Z-Library).epub)
 
 ## [Socket.IO](./books/Socket.IO/)
 

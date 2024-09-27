@@ -43,6 +43,11 @@
 
 * [_Building Event-Driven Microservices_](./books/microservices/Building%20Event-Driven%20Microservices%20Leveraging%20Organizational%20Data%20at%20Scale%20(Adam%20Bellemare)%20(Z-Library).pdf)
 
+## [Next.js](./books/Next.js/)
+
+* [_Practical Next.js for E-Commerce_](./books/Next.js/Practical%20Next.js%20for%20E-Commerce.pdf)
+* [_Real-World Next.js_](./books/Next.js/Riva_Real-World-Next-js_RuLit_Me_767219.pdf)
+
 ## [NGINX](./books/NGINX/)
 
 * [_NGINX Cookbook_](./books/NGINX/NGINX.Cookbook.pdf)

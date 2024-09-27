@@ -38,6 +38,7 @@
 ## [Micro-Frontend](./books/micro-frontend/)
 
 * [_Building Micro-Frontends: Scaling Teams and Projects, Empowering Developers](./books/micro-frontend/Building%20Micro-Frontends%20Scaling%20Teams%20and%20Projects%20Empowering%20Developers%20(Mezzalira,%20Luca)%20(Z-Library).pdf)
+* [_Micro Frontends in Action_](./books/micro-frontend/Micro%20Frontends%20in%20Action%20(Michael%20Geers)%20(Z-Library).pdf)
 
 ## [Microservices](./books/microservices/)
 

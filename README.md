@@ -41,6 +41,7 @@
 * _Kafka: The Definitive Guide_
     * [First Edition](./books/Kafka/confluent-kafka-definitive-guide-complete.pdf)
     * [Second Edition](./books/Kafka/20211115-EB-Kafka_The_Definitive_Guide-2nd_Edition.pdf)
+* [_Making Sense of Stream Processing: The Philosophy Behind Apache Kafka and Scalable Stream Data Platforms_](./books/Kafka/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf)
 
 ## [Micro-Frontend](./books/micro-frontend/)
 

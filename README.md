@@ -36,6 +36,11 @@
 * [_JavaScript Everywhere_](./books/JavaScript/JavaScript%20Everywhere.pdf)
 * [_Mastering Modular JavaScript_](./books/JavaScript/Mastering%20Modular%20JavaScript%20(Nicolás%20Bevacqua)%20(Z-Library).pdf)
 
+## [JSON](./books/JSON/)
+
+* [_JSON at Work_](./books/JSON/JSON%20at%20Work.pdf)
+* [_Understanding JSON Schema_](./books/JSON/UnderstandingJSONSchema.pdf)
+
 ## [Kafka](./books/Kafka/)
 
 * _Kafka: The Definitive Guide_

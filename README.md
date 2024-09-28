@@ -46,6 +46,7 @@
 ## [Micro-Frontend](./books/micro-frontend/)
 
 * [_Building Micro-Frontends: Scaling Teams and Projects, Empowering Developers](./books/micro-frontend/Building%20Micro-Frontends%20Scaling%20Teams%20and%20Projects%20Empowering%20Developers%20(Mezzalira,%20Luca)%20(Z-Library).pdf)
+* [_Journey to Micro Frontends_](./books/micro-frontend/Journey%20to%20Micro%20Frontends%20(Brendon%20Co)%20(Z-Library).pdf)
 * [_Micro Frontends in Action_](./books/micro-frontend/Micro%20Frontends%20in%20Action%20(Michael%20Geers)%20(Z-Library).pdf)
 
 ## [Microservices](./books/microservices/)
@@ -72,6 +73,7 @@
 ## [Performance Optimization](./books/performance-optimization/)
 
 * [_High Performance Web Sites_](./books/performance-optimization/High%20Performance%20Web%20Sites%20Essential%20Knowledge%20for%20Front-End%20Engineers%20(Steve%20Souders)%20(Z-Library).pdf)
+* [_Web Performance in Action_](./books/performance-optimization/Web%20Performance%20in%20Action%20Building%20Faster%20Web%20Pages%20(Jeremy%20Wagner)%20(Z-Library).pdf)
 
 ## [PWA](./books/PWA/)
 

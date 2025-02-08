@@ -62,6 +62,7 @@
 
 * [_Practical Next.js for E-Commerce_](./books/Next.js/Practical%20Next.js%20for%20E-Commerce.pdf)
 * [_Real-World Next.js_](./books/Next.js/Riva_Real-World-Next-js_RuLit_Me_767219.pdf)
+* [_The Next.js Handbook_](./books/Next.js/The%20Next.js%20Handbook%20(Flavio%20Copes)%20(Z-Library).pdf)
 
 ## [NGINX](./books/NGINX/)
 

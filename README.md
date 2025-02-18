@@ -57,6 +57,9 @@
 ## [Microservices](./books/microservices/)
 
 * [_Building Event-Driven Microservices_](./books/microservices/Building%20Event-Driven%20Microservices%20Leveraging%20Organizational%20Data%20at%20Scale%20(Adam%20Bellemare)%20(Z-Library).pdf)
+* _Building Microservices: Desigining Fine-Grained Systems_
+    * [First Edition](./books/microservices/Building.Microservices.pdf)
+    * [Second Edition](./books/microservices/Building%20Microservices,%202nd%20Edition-Sam%20Newman-O'Reilly%20Media-9781492034025-EBooksWorld.ir.pdf)
 
 ## [Next.js](./books/Next.js/)
 

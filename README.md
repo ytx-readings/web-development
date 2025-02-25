@@ -21,6 +21,12 @@
     * [First Edition](./books/Canvas/HTML5-Canvas-1st-Edition.pdf)
     * [Second Edition](./books/Canvas/HTML5-Canvas-2nd-Edition.pdf)
 
+## [ElasticSearch](./books/ElasticSearch/)
+
+* _ElasticSearch in Action_
+    * [First Edition](./books/ElasticSearch/Elasticsearch%20in%20Action.pdf)
+    * [Second Edition](./books/ElasticSearch/Elasticsearch%20in%20Action%20Second%20Edition%20Version%2011.pdf)
+
 ## [Flask](./books/Flask/)
 
 * [_Flask Web Development_](./books/Flask/Flask%20Web%20Development%20Developing%20Web%20Applications%20With%20Python%20(Miguel%20Grinberg)%20(Z-Library).pdf)

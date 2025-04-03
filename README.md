@@ -21,6 +21,10 @@
     * [First Edition](./books/Canvas/HTML5-Canvas-1st-Edition.pdf)
     * [Second Edition](./books/Canvas/HTML5-Canvas-2nd-Edition.pdf)
 
+## [Computer Network](./books/computer-network/)
+
+* [_Working with TCP Sockets_](./books/computer-network/Working%20With%20TCP%20Sockets%20(Jesse%20Storimer)%20(Z-Library).pdf)
+
 ## [ElasticSearch](./books/ElasticSearch/)
 
 * _ElasticSearch in Action_

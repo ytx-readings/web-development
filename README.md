@@ -130,6 +130,10 @@
 * [_Programming TypeScript_](./books/TypeScript/Programming%20TypeScript%20Making%20your%20JavaScript%20applications%20scale%20(Boris%20Cherny)%20(Z-Library).pdf)
 * [_TypeScript Deep Dive_](./books/TypeScript/TypeScript%20Deep%20Dive%20(Basarat%20Ali%20Syed)%20(Z-Library).pdf)
 
+## [Web Components](./books/web-components/)
+
+* [_Web Components in Action_](./books/web-components/Web%20Components%20in%20Action%20(Ben%20Farrell)%20(Z-Library).pdf)
+
 ## [WebSocket](./books/WebSocket/)
 
 * [_The Definitive Guide to HTML5 WebSocket_](./books/WebSocket/The%20Definitive%20Guide%20to%20HTML5%20WebSocket%20(Vanessa%20Wang)%20(Z-Library).pdf)

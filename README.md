@@ -137,6 +137,7 @@
     * [First Edition](./books/web-components/Developing%20Web%20Components%20with%20Svelte%20Building%20a%20Library%20of%20Reusable%20UI%20Components%20(Alex%20Libby)%20(Z-Library).pdf)
     * [Second Edition](./books/web-components/Developing%20Web%20Components%20with%20Svelte%202ed%20Building%20a%20Library%20of%20Reusable%20UI%20Components%20(Alex%20Libby)%20(Z-Library).pdf)
 * [_Developing Web Components with TypeScript_](./books/web-components/Developing%20Web%20Components%20with%20TypeScript%20Native%20Web%20Development%20Using%20Thin%20Libraries%20(Jörg%20Krause)%20(Z-Library).epub)
+* [_Fullstack Web Components_](./books/web-components/Fullstack%20Web%20Components%20Complete%20Guide%20to%20Building%20UI%20Libraries%20with%20Web%20Components%20(Steve%20Belovarich%20(edited%20by)%20Nate%20Murray)%20(Z-Library).pdf)
 * [_Getting Started with Web Components_](./books/web-components/Getting%20Started%20with%20Web%20Components%20(Prateek%20Jadhwani)%20(Z-Library).epub)
 * [_Web Components in Action_](./books/web-components/Web%20Components%20in%20Action%20(Ben%20Farrell)%20(Z-Library).pdf)
 

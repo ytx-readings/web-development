@@ -43,6 +43,9 @@
 ## [HTTP](./books/HTTP/)
 
 * [_HTTP/2 in Action_](./books/HTTP/HTTP2%20in%20Action%20(Barry%20Pollard)%20(Z-Library).pdf)
+* [_HTTP - The Definitive Guide_](./books/HTTP/HTTP%20-%20The%20Definitive%20Guide%20(David%20Gourley,%20Brian%20Totty,%20Marjorie%20Sayer%20etc.)%20(Z-Library).pdf)
+* [_Learning HTTP/2: A Practical Guide for Beginners_](./books/HTTP/Learning%20HTTP2%20A%20Practical%20Guide%20for%20Beginners%20(Stephen%20Ludin,%20Javier%20Garza)%20(Z-Library).epub)
+* [_What Every Web Developer Should Know About HTTP_](./books/HTTP/What%20Every%20Web%20Developer%20Should%20Know%20About%20HTTP%20(K.%20Scott%20Allen)%20(Z-Library).epub)
 
 ## [JavaScript](./books/JavaScript/)
 

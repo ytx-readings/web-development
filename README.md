@@ -40,6 +40,10 @@
 * [_Full Stack Serverless: Modern Application Development with React, AWS, and GraphQL_](./books/GraphQL/Full%20Stack%20Serverless%20Modern%20Application%20Development%20with%20React,%20AWS,%20and%20GraphQL%20(Nader%20Dabit)%20(Z-Library).epub)
 * [_Learning GraphQL_](./books/GraphQL/Learning%20GraphQL%20-%20Declarative%20Data%20Fetching%20For%20Modern%20Web%20Apps%20(Eve%20Porcello,%20Alex%20Banks)%20(Z-Library).pdf)
 
+## [HTTP](./books/HTTP/)
+
+* [_HTTP/2 in Action_](./books/HTTP/HTTP2%20in%20Action%20(Barry%20Pollard)%20(Z-Library).pdf)
+
 ## [JavaScript](./books/JavaScript/)
 
 * [_JavaScript Cookbook_](./books/JavaScript/JavaScript%20Cookbook%20Programming%20the%20Web%20(Adam%20D.%20Scott,%20Matthew%20MacDonald%20etc.)%20(Z-Library).pdf)

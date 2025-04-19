@@ -78,6 +78,7 @@
 * _Building Microservices: Desigining Fine-Grained Systems_
     * [First Edition](./books/microservices/Building.Microservices.pdf)
     * [Second Edition](./books/microservices/Building%20Microservices,%202nd%20Edition-Sam%20Newman-O'Reilly%20Media-9781492034025-EBooksWorld.ir.pdf)
+* [_Microservice Architecture_](./books/microservices/Microservice%20Architecture.epub)
 
 ## [Next.js](./books/Next.js/)
 

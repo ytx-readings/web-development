@@ -23,7 +23,11 @@
 
 ## [CSS](./books/CSS)
 
+* [_CSS Flex & Grid_](./books/CSS/CSS%20Flex%20%20Grid%20-%20Complete%20Guide%20with%20Real%20World%20Examples%20and%20Code%20Snippets%20(Tailwind%20CSS)%20(Shruti%20Balasa)%20(Z-Library).pdf)
+* [_CSS Fonts: Web Typography Possibilities_](./books/CSS/CSS%20Fonts%20Web%20Typography%20Possibilities%20(Eric%20A.%20Meyer)%20(Z-Library).pdf)
+* [_Every Layout: Relearn CSS Layout by Example_](./books/CSS/Every%20Layout%20-%20Relearn%20CSS%20Layout%20by%20Example%20(Heydon%20Pickering,%20Andy%20Bell)%20(Z-Library).pdf)
 * [_Flexbox in CSS_](./books/CSS/Flexbox%20in%20CSS%20(Weyl,%20Estelle)%20(Z-Library).pdf)
+* [_Grid Layout in CSS: Interface Layout for the Web_](./books/CSS/Grid%20Layout%20in%20CSS%20-%20Interface%20Layout%20for%20the%20Web%20(Eric%20A.%20Meyer)%20(Z-Library).pdf)
 * [_HTML5 and CSS3 Masterclass_](./books/CSS/HTML5%20and%20CSS3%20Masterclass%20In-depth%20Web%20Design%20Training%20with%20Geolocation,%20the%20HTML5%20Canvas,%202D%20and%203D%20CSS%20Transformations,…%20(Robin%20Nixon)%20(Z-Library).pdf)
 * [_The Complete Reference: HTML & CSS_, Fifth Edition](./books/CSS/the-complete-reference-html-css-fifth-edition.pdf)
 

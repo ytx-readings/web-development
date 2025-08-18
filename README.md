@@ -151,6 +151,7 @@
 * [_Effective TypeScript_](./books/TypeScript/Effective%20TypeScript%2062%20Specific%20Ways%20to%20Improve%20Your%20TypeScript%20(Dan%20Vanderkam)%20(Z-Library).pdf)
 * [_Pro TypeScript_](./books/TypeScript/Pro%20TypeScript%20Application-Scale%20JavaScript%20Development%20(Steve%20Fenton)%20(Z-Library).pdf)
 * [_Programming TypeScript_](./books/TypeScript/Programming%20TypeScript%20Making%20your%20JavaScript%20applications%20scale%20(Boris%20Cherny)%20(Z-Library).pdf)
+* [_TypeScript Cookbook_](./books/TypeScript/Typescript%20Cookbook%20Real%20World%20Type-Level%20Programming%20(Stefan%20Baumgartner)%20(Z-Library).pdf)
 * [_TypeScript Deep Dive_](./books/TypeScript/TypeScript%20Deep%20Dive%20(Basarat%20Ali%20Syed)%20(Z-Library).pdf)
 
 ## [Web Components](./books/web-components/)

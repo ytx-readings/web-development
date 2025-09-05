@@ -69,6 +69,7 @@
 * [_JavaScript Everywhere_](./books/JavaScript/JavaScript%20Everywhere.pdf)
 * [_Mastering Modular JavaScript_](./books/JavaScript/Mastering%20Modular%20JavaScript%20(Nicolás%20Bevacqua)%20(Z-Library).pdf)
 * [_Multithreaded JavaScript_](./books/JavaScript/Multithreaded%20JavaScript%20Concurrency%20Beyond%20the%20Event%20Loop%20(Hunter,%20II%20Thomas,%20English,%20Bryan)%20(z-lib.org).pdf)
+* [_Web API Cookbook_](./books/JavaScript/Web%20API%20Cookbook%20Level%20Up%20Your%20Javascript%20Applications%20(Joe%20Attardi)%20(Z-Library).pdf)
 
 ### [Node.js](./books/JavaScript/Node.js/)
 

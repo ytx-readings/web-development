@@ -47,6 +47,12 @@
 
 * [_Flask Web Development_](./books/Flask/Flask%20Web%20Development%20Developing%20Web%20Applications%20With%20Python%20(Miguel%20Grinberg)%20(Z-Library).pdf)
 
+## [Full-Stack Development](./books/full-stack/)
+
+* [_Frameworkless Front End Development_](./books/full-stack/pdfcoffee_com_frameworkless_front_end_developmentpdf_4_pdf_free.pdf)
+* [_Full Stack Web Development: The Comprehensive Guide_](./books/full-stack/Full%20Stack%20Web%20Development%20The%20Comprehensive%20Guide%20(Philip%20Ackermann)%20(Z-Library).epub)
+* [_The Complete Developer Master the Full Stack With TypeScript, React, Next.js, MongoDB, and Docker_](./books/full-stack/The%20Complete%20Developer%20Master%20the%20Full%20Stack%20With%20TypeScript,%20React,%20Next.js,%20MongoDB,%20and%20Docker%20(Martin%20Krause)%20(Z-Library).pdf)
+
 ## [GraphQL](./books/GraphQL/)
 
 * [_Full Stack Serverless: Modern Application Development with React, AWS, and GraphQL_](./books/GraphQL/Full%20Stack%20Serverless%20Modern%20Application%20Development%20with%20React,%20AWS,%20and%20GraphQL%20(Nader%20Dabit)%20(Z-Library).epub)

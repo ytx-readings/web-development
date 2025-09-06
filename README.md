@@ -133,13 +133,20 @@
 
 ## [React](./books/React/)
 
+* [_Advanced React_](./books/React/Advanced%20React%20deep%20dives,%20investigations,%20performance%20patterns%20and%20techniques%20(Nadia%20Makarevich)%20(Z-Library).pdf)
+* [_Building Large Scale Web Apps: A React Field Guide_](./books/React/Building%20Large%20Scale%20Web%20Apps%20A%20React%20field%20guide%20(Addy%20Osmani,%20Hassan%20Djirdeh)%20(Z-Library).pdf)
+* [_Designing React Hooks_](./books/React/Designing%20React%20Hooks%20the%20Right%20Way%20Explore%20design%20techniques%20and%20solutions%20to%20debunk%20the%20myths%20about%20adopting%20states%20using…%20(Fang%20Jin)%20(Z-Library).pdf)
+* [_Fluent React_](./books/React/Fluent%20React%20Build%20Fast,%20Performant,%20and%20Intuitive%20Web%20Applications%20(Tejas%20Kumar)%20(Z-Library).pdf)
 * [_Full Stack Serverless: Modern Application Development with React, AWS, and GraphQL_](./books/React/Full%20Stack%20Serverless%20Modern%20Application%20Development%20with%20React,%20AWS,%20and%20GraphQL%20(Nader%20Dabit)%20(Z-Library).epub)
 * [_Learning React: Functional Web Development with React and Redux_](./books/React/Learning%20React%20Modern%20Patterns%20for%20Developing%20React%20Apps%20(Eve%20Porcello,%20Alex%20Banks)%20(Z-Library).pdf)
 * [_Learning React: Modern Patterns for Developing React Apps_](./books/React/Learning%20React%20Modern%20Patterns%20for%20Developing%20React%20Apps%20(Eve%20Porcello,%20Alex%20Banks)%20(Z-Library).pdf)
 * [_Progressive Web Apps with React_](./books/React/dokumen.pub_progressive-web-apps-with-react-create-lightning-fast-web-apps-with-native-power-using-react-and-firebase-9781788296137-1788296133.pdf)
 * [_React 18 Design Patterns_](./books/React/React%2018%20Design%20Patterns%20and%20Best%20Practices%20(Carlos%20Santana%20Roldán)%20(Z-Library).pdf)
 * [_React Cookbook_](./books/React/React%20Cookbook%20Recipes%20for%20Mastering%20the%20React%20Framework%20(David%20Griffiths,%20Dawn%20Griffiths)%20(Z-Library).pdf)
+* [_React In Depth_](./books/React/React%20in%20Depth%20(Morten%20Barklund)%20(Z-Library).pdf)
+* [_React - The Comprehensive Guide_](./books/React/React%20-%20The%20Comprehensive%20Guide%20(Sebastian%20Springer)%20(Z-Library).epub)
 * [_React: Up and Running_](./books/React/React.Up.and.Running.2nd.Edition.Stoyan.Stefanov.OReilly.9781492051466.EBooksWorld.ir.pdf)
+* [_The Road to React_](./books/React/The%20Road%20to%20React%20The%20React.js%20in%20JavaScript%20Book%20(2024%20Edition)%20(Robin%20Wieruch)%20(Z-Library).pdf)
 
 ## [REST](./books/REST/)
 

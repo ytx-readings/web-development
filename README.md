@@ -3,6 +3,7 @@
 ## [Angular](./books/Angular/)
 
 * [_Angular: Up and Running_](./books/Angular/Angular%20Up%20and%20Running%20Learning%20Angular,%20Step%20by%20Step%20(Shyam%20Seshadri)%20(Z-Library).pdf)
+* [_Building Large-Scale Web Applications with Angular_](./books/Angular/Building%20Large-Scale%20Web%20Applications%20with%20Angular%20Your%20one-stop%20guide%20to%20building%20scalable%20and%20production-grade%20Angular%20web…%20(%20etc.)%20(Z-Library).pdf)
 * [_Building Offline Applications With Angular_](./books/Angular/Building%20Offline%20Applications%20with%20Angular%20Develop%20Reliable,%20Performant%20Web%20Applications%20for%20Desktop%20and%20Mobile%20Platforms%20(Venkata%20Keerti%20Kotaru)%20(Z-Library).pdf)
 * [_Enterprise Angular_](./books/Angular/Enterprise%20Angular%20DDD,%20Nx%20Monorepos%20and%20Micro%20Frontends%20(Manfred%20Steyer)%20(Z-Library).pdf)
 * [_Getting Started with Angular_](./books/Angular/Getting%20Started%20With%20Angular%20(Stephen%20Adams)%20(Z-Library).pdf)

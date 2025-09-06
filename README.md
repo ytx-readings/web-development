@@ -163,6 +163,10 @@
 * [_TypeScript Cookbook_](./books/TypeScript/Typescript%20Cookbook%20Real%20World%20Type-Level%20Programming%20(Stefan%20Baumgartner)%20(Z-Library).pdf)
 * [_TypeScript Deep Dive_](./books/TypeScript/TypeScript%20Deep%20Dive%20(Basarat%20Ali%20Syed)%20(Z-Library).pdf)
 
+## [Vue](./books/Vue)
+
+* [_Large Scale Apps with Vue, Vite and TypeScript_](./books/Vue/Large%20Scale%20Apps%20with%20Vue,%20Vite%20and%20TypeScript%20(Damiano%20Fusco)%20(Z-Library).pdf)
+
 ## [Web Components](./books/web-components/)
 
 * [_Building Native Web Components: Front-End Development with Polymer and Vue.js_](./books/web-components/Building%20Native%20Web%20Components%20Front-End%20Development%20with%20Polymer%20and%20Vue.js%20(Carlos%20Rojas)%20(Z-Library).epub)

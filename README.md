@@ -151,6 +151,7 @@
 ## [REST](./books/REST/)
 
 * [_Pro RESTful APIs_](./books/REST/Pro%20RESTful%20APIs%20Design,%20Build%20and%20Integrate%20with%20REST,%20JSON,%20XML%20and%20JAX-RS%20(Patni,%20Sanjay)%20(Z-Library).pdf)
+* [_Web API Design: The Missing Link_](./books/REST/apigee-web-api-design-the-missing-link-ebook.pdf)
 
 ## [Serverless](./books/serverless/)
 

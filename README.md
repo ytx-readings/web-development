@@ -49,6 +49,7 @@
 
 ## [Full-Stack Development](./books/full-stack/)
 
+- [_Dynamic TRIO_](<./books/full-stack/DYNAMIC%20TRIO%20Building%20Web%20Applications%20with%20React,%20Next.js%20%20Tailwind%20(Grace%20Huang)%20(Z-Library).pdf>)
 - [_Frameworkless Front End Development_](./books/full-stack/pdfcoffee_com_frameworkless_front_end_developmentpdf_4_pdf_free.pdf)
 - [_Full Stack Web Development: The Comprehensive Guide_](<./books/full-stack/Full%20Stack%20Web%20Development%20The%20Comprehensive%20Guide%20(Philip%20Ackermann)%20(Z-Library).epub>)
 - [_The Complete Developer Master the Full Stack With TypeScript, React, Next.js, MongoDB, and Docker_](<./books/full-stack/The%20Complete%20Developer%20Master%20the%20Full%20Stack%20With%20TypeScript,%20React,%20Next.js,%20MongoDB,%20and%20Docker%20(Martin%20Krause)%20(Z-Library).pdf>)

@@ -80,6 +80,7 @@
 
 ### [Node.js](./books/JavaScript/Node.js/)
 
+- [_Efficient Node.js_](<./books/JavaScript/Node.js/Efficient%20Node.js%20A%20Beyond-the-Basics%20Guide%20(Samer%20Buna)%20(Z-Library).pdf>)
 - [_Mastering Node.js_](./books/JavaScript/Node.js/Mastering-Node.js.pdf)
 - [_Node Cookbook_](<./books/JavaScript/Node.js/Node%20Cookbook,%202nd%20Edition%20Over%2050%20recipes%20to%20master%20the%20art%20of%20asynchronous%20server-side%20JavaScript%20using%20Node.js,%20with...%20(David%20Mark%20Clements)%20(Z-Library).pdf>)
 - [_Node.js Design Patterns_](./books/JavaScript/Node.js/Node.js%20Design%20Patterns%203rd%20Edition-2020.pdf)

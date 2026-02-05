@@ -94,9 +94,10 @@
 
 ## [Kafka](./books/Kafka/)
 
+- [_Building Real-Time Analytics Systems: From Events to Insights with Apache Kafka and Apache Pinot_](<./books/Kafka/Building%20Real-Time%20Analytics%20Systems%20From%20Events%20to%20Insights%20with%20Apache%20Kafka%20and%20Apache%20Pinot%20(Mark%20Needham)%20(Z-Library).pdf>)
 - _Kafka: The Definitive Guide_
+  - [Second Edition](<./books/Kafka/Kafka%20The%20Definitive%20Guide%20Real-Time%20Data%20and%20Stream%20Processing%20at%20Scale%20(Gwen%20Shapira,%20Todd%20Palino,%20Rajini%20Sivaram%20etc.)%20(Z-Library).pdf>)
   - [First Edition](./books/Kafka/confluent-kafka-definitive-guide-complete.pdf)
-  - [Second Edition](./books/Kafka/20211115-EB-Kafka_The_Definitive_Guide-2nd_Edition.pdf)
 - [_Making Sense of Stream Processing: The Philosophy Behind Apache Kafka and Scalable Stream Data Platforms_](./books/Kafka/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf)
 
 ## [Micro-Frontend](./books/micro-frontend/)

@@ -10,6 +10,12 @@
 - [_Pro Angular 9_](<./books/Angular/Pro%20Angular%209%20Build%20Powerful%20and%20Dynamic%20Web%20Apps%20(Adam%20Freeman)%20(Z-Library).pdf>)
 - [_The Complete Guide to Angular_](<./books/Angular/Ng-Book%20The%20Complete%20Guide%20to%20Angular%2011%20(Felipe%20Coury,%20Ari%20Lerner,%20Nate%20Murray%20etc.)%20(Z-Library).pdf>)
 
+## [API Design](./books/API%20design/)
+
+- [_Designing APIs with Swagger and OpenAPI_](<./books/API%20design/Designing%20APIs%20with%20Swagger%20and%20OpenAPI%20(Final%20Release)%20(Joshua%20S.%20Ponelat,%20Lukas%20L.%20Rosenstock)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
+- [_REST API Design Rulebook_](<./books/API%20design/REST%20API%20Design%20Rulebook%20(Mark%20Masse)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
+- [_The Design of Web APIs_](<./books/API%20design/The%20Design%20of%20Web%20APIs%20(Arnaud%20Lauret)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
+
 ## [Architecture](./books/architecture/)
 
 - [_Modern Front-end Architecture_](<./books/architecture/Modern%20Front-end%20Architecture%20Optimize%20Your%20Front-end%20Development%20with%20Components,%20Storybook,%20and%20Mise%20en%20Place%20Philosophy%20(Ryan%20Lanciaux)%20(Z-Library).pdf>)

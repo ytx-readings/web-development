@@ -100,11 +100,15 @@
 
 ## [Kafka](./books/Kafka/)
 
+- [_Apache Kafka 1.0 Cookbook_](<./books/Kafka/Apache%20Kafka%201.0%20Cookbook%20Over%20100%20practical%20recipes%20on%20using%20distributed%20enterprise%20messaging%20to%20handle%20real-time%20data%20(Raúl%20Estrada)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
+- [_Building Data Streaming Applications with Apache Kafka_](<./books/Kafka/Building%20Data%20Streaming%20Applications%20with%20Apache%20Kafka%20(Kumar,%20Manish%20Singh,%20Chanchal)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 - [_Building Real-Time Analytics Systems: From Events to Insights with Apache Kafka and Apache Pinot_](<./books/Kafka/Building%20Real-Time%20Analytics%20Systems%20From%20Events%20to%20Insights%20with%20Apache%20Kafka%20and%20Apache%20Pinot%20(Mark%20Needham)%20(Z-Library).pdf>)
 - [_Effective Kafka_](<./books/Kafka/Effective%20Kafka%20A%20Hands-On%20Guide%20to%20Building%20Robust%20and%20Scalable%20Event-Driven%20Applications%20with%20Code%20Examples%20in%20Java%20(Emil%20Koutanov)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 - _Kafka: The Definitive Guide_
   - [Second Edition](<./books/Kafka/Kafka%20The%20Definitive%20Guide%20Real-Time%20Data%20and%20Stream%20Processing%20at%20Scale%20(Gwen%20Shapira,%20Todd%20Palino,%20Rajini%20Sivaram%20etc.)%20(Z-Library).pdf>)
   - [First Edition](./books/Kafka/confluent-kafka-definitive-guide-complete.pdf)
+- [_Kafka in Action_](<./books/Kafka/Kafka%20in%20Action%20(Final%20Release)%20(Dylan%20Scott,%20Viktor%20Gamov,%20Dave%20Klein)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
+- [_Kafka Streams in Action_](<./books/Kafka/Kafka%20Streams%20in%20Action,%20Second%20Edition%20(Bill%20Bejeck)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 - [_Making Sense of Stream Processing: The Philosophy Behind Apache Kafka and Scalable Stream Data Platforms_](./books/Kafka/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf)
 
 ## [Micro-Frontend](./books/micro-frontend/)

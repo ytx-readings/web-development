@@ -13,6 +13,7 @@
 ## [API Design](./books/API%20design/)
 
 - [_Designing APIs with Swagger and OpenAPI_](<./books/API%20design/Designing%20APIs%20with%20Swagger%20and%20OpenAPI%20(Final%20Release)%20(Joshua%20S.%20Ponelat,%20Lukas%20L.%20Rosenstock)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
+- [_Designing Web APIs_](<./books/API%20design/Designing%20Web%20APIs%20(Brenda%20Jin,%20Saurabh%20Sahni,%20Amir%20Shevat)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 - [_REST API Design Rulebook_](<./books/API%20design/REST%20API%20Design%20Rulebook%20(Mark%20Masse)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 - [_The Design of Web APIs_](<./books/API%20design/The%20Design%20of%20Web%20APIs%20(Arnaud%20Lauret)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 

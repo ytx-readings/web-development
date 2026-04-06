@@ -182,6 +182,7 @@
 ## [TypeScript](./books/TypeScript/)
 
 - [_Advanced TypeScript Programming Projects_](<./books/TypeScript/Advanced%20TypeScript%20Programming%20Projects%20Build%209%20different%20apps%20with%20TypeScript%203%20and%20JavaScript%20frameworks%20such%20as%20Angular,…%20(Peter%20OHanlon)%20(Z-Library).pdf>)
+- [_Clean Code with TypeScript_](<./books/TypeScript/Clean%20Code%20with%20TypeScript%20Elevate%20your%20TypeScript%206%20skills%20with%20clean%20code%20principles%20and%20production-ready%20practices%20(Rukevwe%20Ojigbo%20etc.)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 - _Effective TypeScript_
   - [First Edition](<./books/TypeScript/Effective%20TypeScript%2062%20Specific%20Ways%20to%20Improve%20Your%20TypeScript%20(Dan%20Vanderkam)%20(Z-Library).pdf>)
   - [Second Edition](<./books/TypeScript/Effective%20TypeScript%2083%20Specific%20Ways%20to%20Improve%20Your%20TypeScript,%202nd%20Edition%20(Dan%20Vanderkam)%20(Z-Library).pdf>)
@@ -193,6 +194,7 @@
 - [_TypeScript Cookbook_](<./books/TypeScript/Typescript%20Cookbook%20Real%20World%20Type-Level%20Programming%20(Stefan%20Baumgartner)%20(Z-Library).pdf>)
 - [_TypeScript Deep Dive_](<./books/TypeScript/TypeScript%20Deep%20Dive%20(Basarat%20Ali%20Syed)%20(Z-Library).pdf>)
 - [_TypeScript Design Patterns_](<./books/TypeScript/TypeScript%20Design%20Patterns%20(Vilic%20Vane)%20(Z-Library).pdf>)
+- [_TypeScript in 50 Lessons_](./books/TypeScript/typescript-in-50-lessons.pdf)
 - [_TypeScript Quickly_](<./books/TypeScript/TypeScript%20Quickly%20(Yakov%20Fain,%20Anton%20Moiseev)%20(Z-Library).pdf>)
 
 ## [Vue](./books/Vue)
